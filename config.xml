@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.jtblin.zs"
+        version   = "1.0.0">
+    <name>Zeptojs Spike</name>
+    <description>Zeptojs Spike</description>
+    <author href="http://au.linkedin.com/in/jtblin" email="jtblin@gmail.com">Jerome Touffe-Blin</author>
+    <preference name="phonegap-version" value="2.5.0" />
+    <preference name="orientation"      value="default" />
+    <preference name="target-device"    value="universal" />
+    <preference name="fullscreen"       value="false" />
+    <!--Cross-domain-->
+    <access origin="*" />
+</widget>
